@@ -10,3 +10,8 @@ https://github.com/frealmyr/3d-lab
 
 ### CRv3 configs based off of this project:
 https://git.pickysysadmin.ca/FiZi/cr-10-v3-marlin-config
+
+### Wiring Notes:
+This project was for another proejct not the SKR mini e3.. but some good notes on wiring
+
+https://3dprintingspace.com/t/how-to-upgrade-your-cr10-v3-to-skr-e3-turbo/2187
